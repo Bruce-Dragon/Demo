@@ -3,6 +3,8 @@
  *	feedback: doxo-live@qq.com
  *	@Bruce
  */
+// first changes
+
 "use strict";
 (function(global, factory) {
 	if (typeof define === 'function' && (define.amd || define.cmd)) {

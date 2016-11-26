@@ -3,7 +3,7 @@
  *	feedback: doxo-live@qq.com
  *	@Bruce
  */
-//第三次修改
+//第N次修改
 
 "use strict";
 (function(global, factory) {

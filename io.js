@@ -3,7 +3,7 @@
  *	feedback: doxo-live@qq.com
  *	@Bruce
  */
-// first changes
+//the second changed
 
 "use strict";
 (function(global, factory) {
